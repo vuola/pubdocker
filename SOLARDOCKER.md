@@ -30,4 +30,6 @@ Check that Docker is running properly
 
 ### Docker-compose
 
-Next we will create a 
+Next we will create a Docker compose declaration file to spin up the
+containers we need.
+
