@@ -5,7 +5,6 @@ resources. For this reason we will add a Docker container runtime environment to
 
 
 ## Component choices
-```
 **Software**:
 ```markdown
 1. Docker https://www.docker.com
